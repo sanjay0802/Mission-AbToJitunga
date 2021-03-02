@@ -7,7 +7,7 @@ public class RemoveDuplicate {
 
 	public static void main(String[] args) {
 	
-		
+		//comment
 		String s="Sanjay";
 		
 		String noDuplicate[]=new String[6]; 
